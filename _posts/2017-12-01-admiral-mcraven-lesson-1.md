@@ -18,6 +18,7 @@ Naval Admiral William H. McRaven, ninth commander of U.S. Special Operations Com
 <hr />
 
 *Ability has nothing to do with opportunity.*
+
 *~ Napoleon Bonaparte*
 
 <hr />
