@@ -7,7 +7,7 @@ author: André Maré
 
 ![soft_skills]({{site.url}}/images/blog_header/pac-man-web-header.jpg)
 
-The idea of using Pac-Man to illustrate the usage of Design Patterns came to me while I was reading an article about Pac-Man by Jamey Pittman. His artile was about the design and AI lessons within the classic Namco game Pac-Man. I was really amased at the complexity in the design and AI of a game that seems so simple while playing at (... well at least level 1). I then decided to create a series of articles which illustrate the use of Design Patterns to implement some of the complex design issues in the game Pac-Man.
+The idea of using Pac-Man to illustrate the usage of Design Patterns came to me while I was reading an article about Pac-Man by Jamey Pittman. His article was about the design and AI lessons within the classic Namco game Pac-Man. I was really amazed at the complexity in the design and AI of a game that seems so simple while playing at (... well at least level 1). I then decided to create a series of articles which illustrate the use of Design Patterns to implement some of the complex design issues in the game Pac-Man.
 
 The first article in the "Pac-Man Patterns" series will focus on the different behaviour each of the four ghosts have during the different modes of the game. We will also look at how the Strategy Pattern can help with the design of the different movement behaviours.
 
