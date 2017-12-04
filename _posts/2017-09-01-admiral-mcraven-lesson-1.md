@@ -5,7 +5,7 @@ date:   2017-09-01 00:00:00
 author: André Maré
 ---
 
-![soft_skills]({{site.url}}/images/blog_header/52822437_m.jpg)
+![soft_skills]({{site.url}}/images/blog_header/72436006_m.jpg)
 
 The wisdom of the simple act of making your bed every morning has been proven many time over to Naval Admiral William H. McRaven. If you make your bed every morning, you will have accomplish the first task of the day. It will give you a small sense of pride and will encourage you to do another task. This will lead to many tasks completed at the end of the day. Making your bed will also reinforce the fact that the little things in life matter. If you can’t do the little things right, you will never get the big things right.
 
