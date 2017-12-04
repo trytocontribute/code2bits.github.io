@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Admiral McRaven Life Lesson 1 - Make Your Bed"
-date:   2017-04-19 16:49:53
+date:   2017-09-01 00:00:00
 author: André Maré
 ---
 
