@@ -2,7 +2,7 @@
 layout: post
 title:  "Admiral McRaven Life Lesson 1 - Make Your Bed"
 date:   2017-04-19 16:49:53
-author: jekyll
+author: André Maré
 ---
 
 ![soft_skills]({{site.url}}/images/blog_header/technology-web-header.jpg)
