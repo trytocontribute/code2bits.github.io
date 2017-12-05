@@ -22,25 +22,25 @@ The solution is very simple and consist of reading two values in from the "stand
 The main method reads in two integer values and invokes a method called "<em>solveMeFirst</em>". The result of the method is then printed out.
  
 {% highlight java %}
-	public static void main(String[] args) {
-    	Scanner in = new Scanner(System.in);
-        int a;
-        a = in.nextInt();
-        int b;
-        b = in.nextInt();
-        int sum;
-        sum = solveMeFirst(a, b);
-        System.out.println(sum);
-        in.close();
- 	}
+public static void main(String[] args) {
+	Scanner in = new Scanner(System.in);
+	int a;
+	a = in.nextInt();
+	int b;
+	b = in.nextInt();
+	int sum;
+	sum = solveMeFirst(a, b);
+	System.out.println(sum);
+	in.close();
+}
 {% endhighlight %}
 
 
 The solveMeFirst method adds the two integer parameters and return it as the result.
 {% highlight java %}
-    public static int solveMeFirst(int a, int b) {
-        return a+b;
-    } // method solveMeFirst   
+public static int solveMeFirst(int a, int b) {
+	return a+b;
+} // method solveMeFirst   
 {% endhighlight %}
 
 #### Source Code Repository
