@@ -3,7 +3,7 @@ layout: post
 title:  "Pac-Man Patterns - Ghost Movement (Strategy Pattern)"
 date:   2017-12-04 00:00:00
 author: André Maré
-categories: [design_patterns]
+categories: [patterns, gof]
 ---
 
 ![soft_skills]({{site.url}}/images/blog_header/pac-man-web-header.jpg)
