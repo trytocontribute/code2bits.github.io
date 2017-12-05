@@ -3,6 +3,7 @@ layout: post
 title:  "Admiral McRaven Life Lesson 1 - Make Your Bed"
 date:   2017-09-01 00:00:00
 author: André Maré
+categories: [soft_skills]
 ---
 
 ![soft_skills]({{site.url}}/images/blog_header/72436006_m.jpg)
