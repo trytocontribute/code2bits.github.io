@@ -19,9 +19,13 @@ For a detailed explanation of the problem, read the Solve Me First challenge on 
 The solution is very simple and consist of reading two values in from the "standard input stream", adding them together and then writing out the sum of the two values to the "standard output stream".
 
 #### Java
-The main method reads in two integer values and invokes a method called "<em>solveMeFirst</em>". The result of the method is then printed out.
+The main method reads in two integer values and invokes a method called "<em>solveMeFirst</em>". The result of the method is then printed out. The solveMeFirst method adds the two integer parameters and return it as the result.
  
 ```java
+public static int solveMeFirst(int a, int b) {
+	return a+b;
+}
+
 public static void main(String[] args) {
 	Scanner in = new Scanner(System.in);
 	int a;
@@ -35,13 +39,6 @@ public static void main(String[] args) {
 }
 ```
 
-
-The solveMeFirst method adds the two integer parameters and return it as the result.
-```java
-public static int solveMeFirst(int a, int b) {
-	return a+b;
-}
-```
 
 #### Source Code Repository
 The source code of the solution can be found on <a href="https://github.com/Code2Bits/HackerRank-Java/tree/master/src/main/java/com/code2bits/hackerrank/algorithms/warmup/solve_me_first">GitHub</a>.
