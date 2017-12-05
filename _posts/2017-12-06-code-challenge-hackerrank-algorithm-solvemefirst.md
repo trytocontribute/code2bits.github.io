@@ -3,6 +3,7 @@ layout: post
 title:  "Code Challenge: HackerRank - Algorithm - Solve Me First"
 date:   2017-12-05 00:00:00
 author: André Maré
+categories: [Code Challenge, HackerRank]
 ---
 
 ![soft_skills]({{site.url}}/images/blog_header/78600152_m.jpg)
