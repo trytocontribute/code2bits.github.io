@@ -21,7 +21,7 @@ The solution is very simple and consist of reading two values in from the "stand
 #### Java
 The main method reads in two integer values and invokes a method called "<em>solveMeFirst</em>". The result of the method is then printed out.
  
-{% highlight java %}
+```java
 public static void main(String[] args) {
 	Scanner in = new Scanner(System.in);
 	int a;
@@ -33,15 +33,15 @@ public static void main(String[] args) {
 	System.out.println(sum);
 	in.close();
 }
-{% endhighlight %}
+```
 
 
 The solveMeFirst method adds the two integer parameters and return it as the result.
-{% highlight java %}
+```java
 public static int solveMeFirst(int a, int b) {
 	return a+b;
 } // method solveMeFirst   
-{% endhighlight %}
+```
 
 #### Source Code Repository
 The source code of the solution can be found on <a href="https://github.com/Code2Bits/HackerRank-Java/tree/master/src/main/java/com/code2bits/hackerrank/algorithms/warmup/solve_me_first">GitHub</a>.
