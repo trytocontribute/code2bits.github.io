@@ -8,6 +8,7 @@ categories: [code_challenge, hackerrank]
 
 ![soft_skills]({{site.url}}/images/blog_header/78600152_m.jpg)
 
+## Problem Statement
 This is one of the first challenges to solve in the Algorithm section of  HackerRank. The first problem focus on reading in values from the "standard input stream", adding the two values together, and then writing the sum out to the "standard output stream".
 
 For a detailed explanation of the problem, read the Solve Me First challenge on <a href="https://www.hackerrank.com/challenges/solve-me-first">HackerRank</a>.
