@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code Challenge: HackerRank - Algorithm - Solve Me First"
-date:   2017-12-05 00:00:00
+date:   2017-12-06 00:00:00
 author: André Maré
 categories: [code_challenge, hackerrank]
 ---
@@ -40,7 +40,7 @@ The solveMeFirst method adds the two integer parameters and return it as the res
 ```java
 public static int solveMeFirst(int a, int b) {
 	return a+b;
-} // method solveMeFirst   
+}
 ```
 
 #### Source Code Repository
